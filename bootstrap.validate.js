@@ -11,13 +11,13 @@
         fieldValidationSpanAll: 'span.field-validation-valid, span.field-validation-error',
         fieldValidationSpanError: 'span.field-validation-error',
         inputValidationError: '.input-validation-error',
-        controlGroupDiv: 'div.control-group',
+        controlGroupDiv: 'div.form-group',
         form: 'form',
         formInput: 'form input, form select, form textarea'
     },
     classes = {
         inlineHelp: 'help-inline',
-        error: 'error'
+        error: 'has-error'
     },
     addInlineHelp = function () {
         /// <summary>Adds inline-help classes</summary>
