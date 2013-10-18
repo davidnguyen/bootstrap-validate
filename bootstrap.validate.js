@@ -2,8 +2,6 @@
  * Bootstrap Validate Scriptlet that supports Twitter Bootstrap styling to 
  * jQuery validate and unobstrusive jQuery validate
  * Author: David Nguyen (diepnn@gmail.com)
- * History:
- * - v1.2.0: added a fix from mgreuel to only triggers validation on keyup when the field is already in error state
  */
 
 (function ($) {
